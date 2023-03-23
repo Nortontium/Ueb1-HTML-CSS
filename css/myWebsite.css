@@ -87,3 +87,8 @@ span{
 button:hover span{
     width: 100%;
 }
+button a{
+    text-decoration: none;
+    color: #fff;
+    text-transform: uppercase;
+}
